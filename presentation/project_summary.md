@@ -7,7 +7,6 @@
 ## 2. 데이터와 가정
 
 - 합성 샘플 데이터: `data/sample/price_series.csv`
-- 원본 강의자료/코드 직접 사용 없음
 - 재현 가능한 baseline 실행을 우선 구성
 
 ## 3. 방법
